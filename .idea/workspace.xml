@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02d293bc-2a2e-4066-a83a-97e095a21c87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/PaymentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/TicketBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/TicketBookingProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/LoginFailedException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookmyshow/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/ErrorCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookmyshow/PaymentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/PaymentException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookmyshow/TicketBlockException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/TicketBlockException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bookmyshow/TicketBookingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/TicketBookingClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bookmyshow/TicketRepositry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/TicketRepositry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bookmyshow/TicketService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/TicketService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unCheckedException/WifiUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unCheckedException/WifiUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unCheckedException/InvalidpasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unCheckedException/InvalidpasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unCheckedException/WifiRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unCheckedException/WifiRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rethrowException&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IdeaProjects/RethrowExceptions/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Exceptions",
+    "onboarding.tips.debug.path": "D:/IdeaProjects/RethrowExceptions/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.TicketBookingClient">
+}]]></component>
+  <component name="RunManager" selected="Application.BookmyShowUser">
+    <configuration name="BookmyShowUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookmyShow1.BookmyShowUser" />
+      <module name="RethrowExceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bookmyShow1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TicketBookingClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bookmyshow.TicketBookingClient" />
       <module name="RethrowExceptions" />
@@ -83,9 +100,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookmyShowUser" />
+        <item itemvalue="Application.checkedExceptions.WifiUser" />
         <item itemvalue="Application.TicketBookingClient" />
         <item itemvalue="Application.WifiUser" />
-        <item itemvalue="Application.checkedExceptions.WifiUser" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +159,30 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/checkedExceptions/WifiUser.java</url>
+          <line>3</line>
+          <properties class="checkedExceptions.WifiUser" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
