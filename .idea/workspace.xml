@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02d293bc-2a2e-4066-a83a-97e095a21c87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fileNotFound/WhileLoopTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookmyShow1/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyShow1/ErrorCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookmyShow1/TicketBookingProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyShow1/TicketBookingProcess.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Exceptions",
-    "onboarding.tips.debug.path": "D:/IdeaProjects/RethrowExceptions/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Exceptions&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IdeaProjects/RethrowExceptions/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.BookmyShowUser">
+}</component>
+  <component name="RunManager" selected="Application.WhileLoopTest">
     <configuration name="BookmyShowUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bookmyShow1.BookmyShowUser" />
       <module name="RethrowExceptions" />
@@ -63,6 +62,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="bookmyshow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileNotFound.WhileLoopTest" />
+      <module name="RethrowExceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileNotFound.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileLoopTest" />
         <item itemvalue="Application.BookmyShowUser" />
         <item itemvalue="Application.checkedExceptions.WifiUser" />
         <item itemvalue="Application.TicketBookingClient" />
@@ -140,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709630243671</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="PaymentException">
+      <option name="closed" value="true" />
+      <created>1709696318030</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709696318030</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
