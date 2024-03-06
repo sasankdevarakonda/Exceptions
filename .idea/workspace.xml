@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02d293bc-2a2e-4066-a83a-97e095a21c87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/ErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/PaymentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/TicketBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookmyShow1/TicketBookingProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookmyshow/LoginFailedException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookmyshow/TicketBookingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/TicketBookingClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookmyshow/TicketRepositry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/TicketRepositry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookmyshow/TicketService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyshow/TicketService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unCheckedException/InvalidpasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unCheckedException/InvalidpasswordException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unCheckedException/WifiRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unCheckedException/WifiRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookmyShow1/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyShow1/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookmyShow1/TicketBookingProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookmyShow1/TicketBookingProcess.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,13 +132,22 @@
       <option name="project" value="LOCAL" />
       <updated>1709445587716</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PaymentException">
+      <option name="closed" value="true" />
+      <created>1709630243671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709630243671</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Youcan Write Message" />
     <MESSAGE value="Exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception" />
+    <MESSAGE value="PaymentException" />
+    <option name="LAST_COMMIT_MESSAGE" value="PaymentException" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -168,21 +169,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bookmyShow1/BookmyShowUser.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

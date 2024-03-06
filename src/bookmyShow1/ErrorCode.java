@@ -1,7 +1,7 @@
 package bookmyShow1;
 
 public enum ErrorCode {
-    Payment_Failed("Login Failed");
+    Payment_Failed("Payment_Failed");
     String message;
 
     ErrorCode(String message) {
