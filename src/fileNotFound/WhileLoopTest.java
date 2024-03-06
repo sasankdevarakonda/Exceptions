@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class WhileLoopTest {
     public static void main(String[] args) {
-        
+
                 while (true) {
                     try {
                         FileInputStream fis = new FileInputStream("D:\\WhileTest\\sasi");
